@@ -1,28 +1,29 @@
-{"services":[
-  {  
-      "image":"https://cdn.pixabay.com/photo/2018/02/22/17/16/hairdresser-3173438_1280.jpg",
-      "title":"Картинка",
-      "decription":"Tailored software development services for various platforms including web, mobile, and desktop applications."
-  },
-  {
-      "image":"https://cdn.pixabay.com/photo/2016/02/04/17/46/hairdresser-1179534_1280.jpg",
-      "title":"Cloud Services and Hosting Solutions",
-      "decription":"Robust cloud services tailored to your needs, from selecting the right cloud solution to data migration and security implementation."
-  },
-  {
-      "image":"https://cdn.pixabay.com/photo/2018/02/22/17/09/barber-shop-3173422_1280.jpg",
-      "title":"Cybersecurity Solutions",
-      "decription":"Proactive cybersecurity services including vulnerability assessments, threat monitoring, and security system implementation."
-  },
-  {
-      "image":"https://cdn.pixabay.com/photo/2015/07/07/11/36/haircut-834280_1280.jpg",
-      "title":"Web Development",
-      "decription":"Dynamic web development services for creating responsive websites and e-commerce platforms."
-  },
-  {
-      "image":"https://cdn.pixabay.com/photo/2020/05/21/11/42/hair-salon-5200393_1280.jpg",
-      "title":"Data Analytics",
-      "decription":"Data-driven insights to drive strategic decision-making."
-  }
-]
+{
+  "services": [
+    {
+      "image": "https://media.istockphoto.com/id/1447590641/photo/hairdresser-senior-woman-client-and-hair-care-consultation-with-young-hairstylist-in-training.jpg?s=612x612&w=0&k=20&c=YvM5izOJUkAP4OmDPes07RViySbYIn_tPuNmX_5XIrg=",
+      "title": "Консультация и выбор стиля",
+      "description": "Обсуждаем предпочтения, изучаем форму лица и текстуру волос, чтобы выбрать наилучший стиль, который подчеркнет вашу индивидуальность."
+    },
+    {
+      "image": "https://media.istockphoto.com/id/1283684972/photo/young-hairstylist-washing-hair-of-bearded-man-in-beauty-salon.jpg?s=612x612&w=0&k=20&c=L5Im48htrLx7F42-NjmAaCkq4Vc1nZKs1-WWE-0oVV8=",
+      "title": "Мойка и подготовка волос",
+      "description": "Волосы тщательно моют с использованием профессиональных средств, чтобы подготовить их к стрижке и укладке."
+    },
+    {
+      "image": "https://media.istockphoto.com/id/1514678688/photo/confident-female-hairdresser-working-on-a-new-hairstyle-cutting-ends-with-scissors-and-comb.jpg?s=612x612&w=0&k=20&c=8jFsr1I6gjtSz27Wj4OEu6oyqRorHRx0N0lCFH_GZ64=",
+      "title": "Стрижка",
+      "description": "Выполняем стрижку, используя современные техники и профессиональные инструменты, чтобы создать идеальный образ."
+    },
+    {
+      "image": "https://media.istockphoto.com/id/1167650987/photo/hairdresser-using-hairdryer-and-brushing-hair.jpg?s=612x612&w=0&k=20&c=1Z9lrnoprRd7ELNx60vNrF1F6UHxXmDoHWvzIdM4RLI=",
+      "title": "Укладка и финишные штрихи",
+      "description": "После стрижки волосы укладываем, подчеркивая их форму и стиль. Используются стайлинг-средства для придания объема и блеска."
+    },
+    {
+      "image": "https://media.istockphoto.com/id/950839814/photo/smiling-young-woman-getting-her-hair-done-in-a-salon.jpg?s=612x612&w=0&k=20&c=n611jPpQaoSii_OaiRsWjZo-0SSRVr0NzA95qXanmBk=",
+      "title": "Окончательный осмотр и рекомендации по уходу",
+      "description": "Мастер проверяет результат и дает советы по уходу за волосами, чтобы сохранить их красоту и здоровье."
+    }
+  ]
 }
